@@ -17,3 +17,4 @@ prometheus - grafana.
 Выбрал систему zabbix, так как в дальнейшем планирую вести на нем мониторинг.
 
 Прилагаю скриншот. Имя и Фамилия приложена на скриншоте.
+![zabbix](https://github.com/alexxeykz/Zabbix/assets/163057177/afcd2831-244c-4820-ab31-373ba38ddc0a)
